@@ -1,4 +1,4 @@
-Çú¿â0001,#genre#
+æ›²åº“0001,#genre#
 MTV1,http://em.21dtv.com/songs/60100000.mkv
 MTV2,http://em.21dtv.com/songs/60100001.mkv
 MTV3,http://em.21dtv.com/songs/60100002.mkv
@@ -1000,7 +1000,7 @@ MTV998,http://em.21dtv.com/songs/60100997.mkv
 MTV999,http://em.21dtv.com/songs/60100998.mkv
 MTV1000,http://em.21dtv.com/songs/60100999.mkv
 
-Çú¿â0002,#genre#
+æ›²åº“0002,#genre#
 MTV1001,http://em.21dtv.com/songs/60101000.mkv
 MTV1002,http://em.21dtv.com/songs/60101001.mkv
 MTV1003,http://em.21dtv.com/songs/60101002.mkv
@@ -2002,7 +2002,7 @@ MTV1998,http://em.21dtv.com/songs/60101997.mkv
 MTV1999,http://em.21dtv.com/songs/60101998.mkv
 MTV2000,http://em.21dtv.com/songs/60101999.mkv
 
-Çú¿â0003,#genre#
+Ã‡ÃºÂ¿Ã¢0003,#genre#
 MTV2001,http://em.21dtv.com/songs/60102000.mkv
 MTV2002,http://em.21dtv.com/songs/60102001.mkv
 MTV2003,http://em.21dtv.com/songs/60102002.mkv
@@ -3004,7 +3004,7 @@ MTV2998,http://em.21dtv.com/songs/60102997.mkv
 MTV2999,http://em.21dtv.com/songs/60102998.mkv
 MTV3000,http://em.21dtv.com/songs/60102999.mkv
 
-Çú¿â0004,#genre#
+Ã‡ÃºÂ¿Ã¢0004,#genre#
 MTV3001,http://em.21dtv.com/songs/60103000.mkv
 MTV3002,http://em.21dtv.com/songs/60103001.mkv
 MTV3003,http://em.21dtv.com/songs/60103002.mkv
@@ -4006,7 +4006,7 @@ MTV3998,http://em.21dtv.com/songs/60103997.mkv
 MTV3999,http://em.21dtv.com/songs/60103998.mkv
 MTV4000,http://em.21dtv.com/songs/60103999.mkv
 
-Çú¿â0005,#genre#
+Ã‡ÃºÂ¿Ã¢0005,#genre#
 MTV4001,http://em.21dtv.com/songs/60104000.mkv
 MTV4002,http://em.21dtv.com/songs/60104001.mkv
 MTV4003,http://em.21dtv.com/songs/60104002.mkv
